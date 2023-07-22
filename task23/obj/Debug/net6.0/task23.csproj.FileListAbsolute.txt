@@ -1,0 +1,15 @@
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+E:\gb\C#\homework\3\task23\bin\Debug\net6.0\task23.exe
+E:\gb\C#\homework\3\task23\bin\Debug\net6.0\task23.deps.json
+E:\gb\C#\homework\3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+E:\gb\C#\homework\3\task23\bin\Debug\net6.0\task23.dll
+E:\gb\C#\homework\3\task23\bin\Debug\net6.0\task23.pdb
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.dll
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\refint\task23.dll
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.pdb
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+E:\gb\C#\homework\3\task23\obj\Debug\net6.0\ref\task23.dll
